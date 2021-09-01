@@ -1,5 +1,5 @@
-second repo
+second repo is new
 doing some more changes
-Learn GIT
+Learn GIT and start code.
 work smart
 Do some extra effort
